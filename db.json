@@ -1,0 +1,66 @@
+{
+  "error": false,
+  "message": "Средние курсы.",
+  "data": {
+    "2": {
+      "title": "Американский доллар",
+      "title_alias": "usd",
+      "id": "2",
+      "rates": {
+        "buy_rate": "0.00",
+        "sell_rate": "0.00",
+        "date_start": null
+      }
+    },
+    "3": {
+      "title": "Евро",
+      "title_alias": "eur",
+      "id": "3",
+      "rates": {
+        "buy_rate": "0.00",
+        "sell_rate": "0.00",
+        "date_start": null
+      }
+    },
+    "4": {
+      "title": "Российский рубль",
+      "title_alias": "rub",
+      "id": "4",
+      "rates": {
+        "buy_rate": "0.000",
+        "sell_rate": "0.000",
+        "date_start": null
+      }
+    },
+    "5": {
+      "title": "Казахский тенге",
+      "title_alias": "kzt",
+      "id": "5",
+      "rates": {
+        "buy_rate": "0.0000",
+        "sell_rate": "0.0000",
+        "date_start": null
+      }
+    },
+    "7": {
+      "title": "Китайский юань",
+      "title_alias": "cny",
+      "id": "7",
+      "rates": {
+        "buy_rate": "0.00",
+        "sell_rate": "0.00",
+        "date_start": null
+      }
+    },
+    "8": {
+      "title": "Английский фунт",
+      "title_alias": "gbp",
+      "id": "8",
+      "rates": {
+        "buy_rate": "0.00",
+        "sell_rate": "0.00",
+        "date_start": null
+      }
+    }
+  }
+}
